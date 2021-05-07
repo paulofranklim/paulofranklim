@@ -1,10 +1,6 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=pfranklim" alt="pfranklim" /></p>
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Paulo Franklim.</h1>
 
 <p align = "justify">Back-end developer with microservices Java Spring Boot/Clooud in financial market applications, constantly improving my skills and now learning about Front-end technologies. Coffee lover, Playstation Fan and FIFA player on free time. 🙃</p>
-
-
-
 
 ### 📨📬 You can find me
 [![Linkedin Badge](https://img.shields.io/badge/-paulofranklim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulofranklim/)](https://www.linkedin.com/in/paulofranklim/)
@@ -35,5 +31,5 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ### ⚡🔋 GitHub Stats
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pfranklim&show_icons=true&count_private=true&theme=dark" width="480"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfranklim&langs_count=10&theme=dark&layout=compact" width="348"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=paulofranklim&show_icons=true&count_private=true&theme=dark" width="480"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofranklim&langs_count=10&theme=dark&layout=compact" width="348"></a>
