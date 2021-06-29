@@ -67,7 +67,7 @@ public class WhoIAm {
   <a align="right" href="https://github.com/paulofranklim/lottery-checker-api" title="Lottery Checker Api"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-api&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/paulofranklim/podcastr" title="Podcastr"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=podcastr&theme=react&border_color=61dafb&border_radius=10"></a>
