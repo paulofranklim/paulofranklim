@@ -70,7 +70,7 @@ public class WhoIAm {
 
 <br/>
 
-<div width="100%" align="center">
+<div align="center">
   <a align="left" href="https://github.com/paulofranklim/podcastr" title="Podcastr"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=podcastr&theme=material-palenight"></a>
   
   <a align="right" href="https://github.com/ldrf/wanted" title="Wanted"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ldrf&repo=wanted&theme=material-palenight"></a>
