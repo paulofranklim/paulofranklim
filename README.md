@@ -62,8 +62,8 @@ public class WhoIAm {
 </p>
 
 <h2 align="center">📁💻Repositories</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-app&theme=material-palenight">  
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-api&theme=material-palenight">  
-<br/><br/><br/><br/><br/><br/><br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=podcastr&theme=material-palenight">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ldrf&repo=wanted&theme=material-palenight">
+<img width="400"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-app&theme=material-palenight">  
+<img width="400"  align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-api&theme=material-palenight">  
+<br/>
+<img width="400"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=podcastr&theme=material-palenight">
+<img width="400"  align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=ldrf&repo=wanted&theme=material-palenight">
