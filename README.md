@@ -24,7 +24,7 @@ public class WhoIAm {
 
 <img align='right' src="https://camo.githubusercontent.com/2daa5a3f385c1ede09c109bb121875bb7738b99dffb43683bdf272ac5dd3dd0a/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="450">
 
-8 years+ back-end developer with microservices Java Spring Boot/Clooud & JS in financial market applications and industry, constantly improving my skills and now learning about Front-end technologies. Coffee lover, Comedy shows, Soccer, Playstation Fan and FIFA player on free time 🙃
+9 years+ back-end developer with microservices Java Spring Boot/Clooud & JS in financial market applications and industry, constantly improving my skills and now learning about Front-end technologies. Coffee lover, Comedy shows, Soccer, Playstation Fan and FIFA player on free time 🙃
 
 ### 📨📬 You can find me
 [![Linkedin Badge](https://img.shields.io/badge/-paulofranklim-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulofranklim/)](https://www.linkedin.com/in/paulofranklim/)
@@ -35,7 +35,10 @@ public class WhoIAm {
 [![Outlook Badge](https://img.shields.io/badge/-paulofranklim@hotmail.com-0072C6?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:paulofranklim@hotmail.com)](mailto:paulofranklim@hotmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-paulofranklim@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulofranklim@gmail.com)](mailto:paulofranklim@gmail.com)
 
-### 🚀⚙️ Technologies & Tools
+
+<h2 align="center">🚀⚙️ Technologies & Tools</h2>
+<br/>
+
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat-square)](#)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&style=flat-square)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=flat-square)](#)
