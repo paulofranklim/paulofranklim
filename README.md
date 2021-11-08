@@ -61,17 +61,17 @@ public class WhoIAm {
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=paulofranklim&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
   
-<h2 align="center">📁💻Repositories</h2>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/paulofranklim/lottery-checker-app" title="Lottery Checker App"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-app&theme=react&border_color=61dafb&border_radius=10"></a>
+<h2 width="100%" align="center">📁💻Repositories</h2>
+<div align="center">
+  <a align="left" href="https://github.com/paulofranklim/lottery-checker-app" title="Lottery Checker App"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-app&theme=material-palenight"></a>
   
-  <a align="right" href="https://github.com/paulofranklim/lottery-checker-api" title="Lottery Checker Api"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-api&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/paulofranklim/lottery-checker-api" title="Lottery Checker Api"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-api&theme=material-palenight"></a>
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/paulofranklim/podcastr" title="Podcastr"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=podcastr&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/paulofranklim/podcastr" title="Podcastr"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=podcastr&theme=material-palenight"></a>
   
-  <a align="right" href="https://github.com/ldrf/wanted" title="Wanted"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ldrf&repo=wanted&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ldrf/wanted" title="Wanted"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ldrf&repo=wanted&theme=material-palenight"></a>
 </div>
