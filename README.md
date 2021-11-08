@@ -62,16 +62,16 @@ public class WhoIAm {
 </p>
   
 <h2 width="100%" align="center">📁💻Repositories</h2>
-<div align="center">
+
   <a href="https://github.com/paulofranklim/lottery-checker-app" title="Lottery Checker App"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-app&theme=material-palenight"></a>
   
   <a href="https://github.com/paulofranklim/lottery-checker-api" title="Lottery Checker Api"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-api&theme=material-palenight"></a>
-</div>
 
-<br/>
 
-<div align="center">
+<br/><br/><br/><br/><br/><br/>
+
+
   <a align="left" href="https://github.com/paulofranklim/podcastr" title="Podcastr"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=podcastr&theme=material-palenight"></a>
   
   <a align="right" href="https://github.com/ldrf/wanted" title="Wanted"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ldrf&repo=wanted&theme=material-palenight"></a>
-</div>
+
