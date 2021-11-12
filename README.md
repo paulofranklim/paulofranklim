@@ -32,6 +32,7 @@ public class WhoIAm {
 [![Twitter Badge](https://img.shields.io/badge/-paulofranklim__-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/paulofranklim_/?hl=pt-br)](https://www.twitter.com/paulofranklim_)
 [![Twitch Badge](https://img.shields.io/badge/-pfranklim-6441A5?style=flat-square&logo=twitch&logoColor=white&link=https://www.twtich.tv/pfranklim)](https://twitch.tv/pfranklim)
 [![Playstation Badge](https://img.shields.io/badge/-paulofranklim-003791?style=flat-square&logo=playstation&logoColor=white)](#)
+[![Stackoverflow Badge](https://img.shields.io/badge/-paulofranklim-ef8236?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/16032053/paulofranklim)](https://stackoverflow.com/users/16032053/paulofranklim)
 [![Outlook Badge](https://img.shields.io/badge/-paulofranklim@hotmail.com-0072C6?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:paulofranklim@hotmail.com)](mailto:paulofranklim@hotmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-paulofranklim@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulofranklim@gmail.com)](mailto:paulofranklim@gmail.com)
 
@@ -64,15 +65,10 @@ public class WhoIAm {
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=paulofranklim&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-<h2 align="center">📁💻Repositories</h2>
+<h2 align="center">📁💻 My portfolio projects</h2>
 <div align="center">
-<a href="https://github.com/paulofranklim/lottery-checker-app"><img width="400" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-app&theme=material-palenight"></a>
-<a href="https://github.com/paulofranklim/lottery-checker-api"><img width="400" align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-api&theme=material-palenight"></a>
-</div>
-<br/>
-<div align="center">
-<a href="https://github.com/paulofranklim/podcastr"><img width="400"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=podcastr&theme=material-palenight"></a>
-<a href="https://github.com/ldrf/wanted"><img width="400"  align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=ldrf&repo=wanted&theme=material-palenight"></a>
+<a href="https://github.com/paulofranklim/minhasvendas.online"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=minhasvendas.online&theme=material-palenight"></a>
+
 </div>
 
 
