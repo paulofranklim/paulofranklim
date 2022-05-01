@@ -12,9 +12,10 @@ public class WhoIAm {
     private static void helloWorld() {
 	System.out.println("Paulo Franklim");
 	System.out.println("33yrs");
-	System.out.println("Fortaleza, CE - Brazil");
-	System.out.println("System Analyst at CPQi Group");
-	System.out.println("Learning, learning, learning");
+	System.out.println("Born and raised in Fortaleza, CE - Brazil");
+	System.out.println("Currently living in Madrid, Spain");
+	System.out.println("System Analyst at Qaracter - Beyond your Challenge");
+	System.out.println("Always learning and trying new things");
 	System.out.println("... Hello World!");
 	System.exit(0);
     }
@@ -24,7 +25,7 @@ public class WhoIAm {
 
 <img align='right' src="https://camo.githubusercontent.com/2daa5a3f385c1ede09c109bb121875bb7738b99dffb43683bdf272ac5dd3dd0a/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="450">
 
-9 years+ back-end developer with microservices Java Spring Boot/Clooud & JS in financial market applications and industry, constantly improving my skills and now learning about Front-end technologies. Coffee lover, Comedy shows, Soccer, Playstation Fan and FIFA player on free time 🙃
+9 years+ back-end developer with Java, microservices Spring Boot/Cloud and JavaScript in financial market applications and industry, constantly improving my skills and now learning about Front-end technologies. Coffee lover, Comedy movies & series, Soccer, Playstation Fan and FIFA player on free time and other games. 🙃
 
 ### 📨📬 You can find me
 [![Linkedin Badge](https://img.shields.io/badge/-paulofranklim-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulofranklim/)](https://www.linkedin.com/in/paulofranklim/)
@@ -54,6 +55,9 @@ public class WhoIAm {
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square)](#)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat-square)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud&logoColor=blue&style=flat-square)](#)
+[![Docker](https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white&style=flat-square)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-0078D6?style=for-the-badge&logo=kubernetes&logoColor=white&style=flat-square)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=black&style=flat-square)](#)
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red&style=flat-square)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square)](#)
 [![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket&logoColor=white&style=flat-square)](#)
