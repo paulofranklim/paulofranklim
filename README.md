@@ -70,9 +70,16 @@ public class WhoIAm {
 </p>
 
 <h2 align="center">📁💻 My portfolio projects</h2>
-<div align="center">
-<a href="https://github.com/paulofranklim/minhasvendas.online"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=minhasvendas.online&theme=material-palenight"></a>
-
+<div>
+<p align="center">
+	<a href="https://github.com/paulofranklim/lottery-checker-api">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-api&theme=material-palenight">
+	</a>
+	<a href="https://github.com/paulofranklim/lottery-checker-app">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paulofranklim&repo=lottery-checker-app&theme=material-palenight">
+	</a>
+</p>
+</div>
 </div>
 
 
