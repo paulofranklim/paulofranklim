@@ -11,12 +11,11 @@ public class WhoIAm {
 
     private static void helloWorld() {
 	System.out.println("Paulo Franklim");
-	System.out.println("33yrs");
-	System.out.println("Born and raised in Fortaleza, CE - Brazil");
+	System.out.println("Born and raised in Fortaleza, Brazil");
 	System.out.println("Currently living in Madrid, Spain");
-	System.out.println("System Analyst at Qaracter - Beyond your Challenge");
+	System.out.println("Software Engineer at ING Bank");
 	System.out.println("Always learning and trying new things");
-	System.out.println("... Hello World!");
+	System.out.println("Hello World!");
 	System.exit(0);
     }
 }
@@ -25,7 +24,7 @@ public class WhoIAm {
 
 <img align='right' src="https://camo.githubusercontent.com/2daa5a3f385c1ede09c109bb121875bb7738b99dffb43683bdf272ac5dd3dd0a/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="450">
 
-9 years+ back-end developer with Java, microservices Spring Boot/Cloud and JavaScript in financial market applications and industry, constantly improving my skills and now learning about Front-end technologies. Coffee lover, Comedy movies & series, Soccer, Playstation Fan and FIFA player on free time and other games. 🙃
+10 years+ back-end developer with Java, microservices Spring Boot/Cloud and JavaScript in financial market applications and industry, constantly improving my skills and now learning about Front-end technologies. Coffee lover, Comedy movies & series, Soccer, Playstation Fan and FIFA player on free time and other games. 🙃
 
 ### 📨📬 You can find me
 [![Linkedin Badge](https://img.shields.io/badge/-paulofranklim-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulofranklim/)](https://www.linkedin.com/in/paulofranklim/)
@@ -70,6 +69,10 @@ public class WhoIAm {
 </p>
 
 <h2 align="center">📁💻 My portfolio projects</h2>
+<p align="center">
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/construction-work-in-progress-4224363-3518822.png" width="450">
+</p>
+<!--
 <div>
 <p align="center">
 	<a href="https://github.com/paulofranklim/lottery-checker-api">
@@ -80,6 +83,7 @@ public class WhoIAm {
 	</a>
 </p>
 </div>
+-->
 </div>
 
 
