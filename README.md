@@ -20,46 +20,49 @@ public class WhoIAm {
     }
 }
 ```
-<br/>
-
 <img align='right' src="https://camo.githubusercontent.com/2daa5a3f385c1ede09c109bb121875bb7738b99dffb43683bdf272ac5dd3dd0a/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="450">
 
-10 years+ back-end developer with Java, microservices Spring Boot/Cloud and JavaScript in financial market applications and industry, constantly improving my skills and now learning about Front-end technologies. Coffee lover, Comedy movies & series, Soccer, Playstation Fan and FIFA player on free time and other games. 🙃
-
-### 📨📬 You can find me
-[![Linkedin Badge](https://img.shields.io/badge/-paulofranklim-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulofranklim/)](https://www.linkedin.com/in/paulofranklim/)
-[![Instagram Badge](https://img.shields.io/badge/-pfranklim-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pfranklim/?hl=pt-br)](https://instagram.com/pfranklim)
-[![Twitter Badge](https://img.shields.io/badge/-paulofranklim__-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/paulofranklim_/?hl=pt-br)](https://www.twitter.com/paulofranklim_)
-[![Twitch Badge](https://img.shields.io/badge/-pfranklim-6441A5?style=flat-square&logo=twitch&logoColor=white&link=https://www.twtich.tv/pfranklim)](https://twitch.tv/pfranklim)
-[![Playstation Badge](https://img.shields.io/badge/-paulofranklim-003791?style=flat-square&logo=playstation&logoColor=white)](#)
-[![Stackoverflow Badge](https://img.shields.io/badge/-paulofranklim-ef8236?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/16032053/paulofranklim)](https://stackoverflow.com/users/16032053/paulofranklim)
-[![Outlook Badge](https://img.shields.io/badge/-paulofranklim@hotmail.com-0072C6?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:paulofranklim@hotmail.com)](mailto:paulofranklim@hotmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-paulofranklim@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulofranklim@gmail.com)](mailto:paulofranklim@gmail.com)
-
-
-<h2 align="center">🚀⚙️ Technologies & Tools</h2>
 <br/>
+Software Engineer, with 10yrs+ with Java, microservices Spring Boot/Cloud and JavaScript. Working in projects at bank/financial market applications and food industry, constantly improving my skills. Coffee lover, Comedy movies & series, Soccer, Playstation Fan and online player on free time. 🙃
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat-square)](#)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&style=flat-square)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=flat-square)](#)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](#)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat-square)](#)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat-square)](#)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=flat-square)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat-square)](#)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat-square)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&style=flat-square)](#)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square)](#)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square)](#)
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat-square)](#)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud&logoColor=blue&style=flat-square)](#)
-[![Docker](https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white&style=flat-square)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-0078D6?style=for-the-badge&logo=kubernetes&logoColor=white&style=flat-square)](#)
-[![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=black&style=flat-square)](#)
-[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red&style=flat-square)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square)](#)
-[![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket&logoColor=white&style=flat-square)](#)
+<br/>
+<h2>📨📬 You can find me</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-paulofranklim-0e76a8?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulofranklim/)](https://www.linkedin.com/in/paulofranklim/)
+[![Outlook Badge](https://img.shields.io/badge/-paulofranklim@hotmail.com-0072C6?logo=Microsoft%20Outlook&logoColor=white&link=mailto:paulofranklim@hotmail.com)](mailto:paulofranklim@hotmail.com)
+
+<br/>
+<h2 align="center">🚀⚙️ Technologies & Tools</h2>
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](#)
+[![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven&logoColor=orange)](#)
+[![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Flyway](https://img.shields.io/badge/Flyway-E60012?style=for-the-badge&logo=flyway&logoColor=white)](#)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![Azure](https://img.shields.io/badge/Azure-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-white?style=for-the-badge&logo=google-cloud&logoColor=blue)](#)
+[![Docker](https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-0078D6?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
+[![Openshift](https://img.shields.io/badge/Openshift-gray?style=for-the-badge&logo=redhatopenshift&logoColor=red)](#)
+[![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=jenkins&logoColor=black)](#)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](#)
+[![Grafana](https://img.shields.io/badge/Grafana-gray?style=for-the-badge&logo=grafana&logoColor=orange)](#)
+[![Elastic](https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&logo=Elastic&logoColor=black)](#)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-FFFFFF?style=for-the-badge&logo=Elasticsearch&logoColor=green)](#)
+[![Logstash](https://img.shields.io/badge/Logstash-FFFFFF?style=for-the-badge&logo=logstash&logoColor=yellow)](#)
+[![Kibana](https://img.shields.io/badge/Kibana-FFFFFF?style=for-the-badge&logo=kibana&logoColor=pink)](#)
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket&logoColor=white)](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 
 <h2 align="center"> ⚡🔋 GitHub Stats</h2>
   <p align="center">
